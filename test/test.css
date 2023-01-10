@@ -1,0 +1,24 @@
+h2 {
+    margin: 0;
+}
+
+.gallery {
+    box-shadow: 5px 5px 10px grey;
+    padding: 20px;
+    margin-bottom: 20px;
+    min-height: 300px;
+    display: flex;
+    align-items: start; 
+}
+
+.gallery > img {
+    width: 200px;
+}
+
+.gallery > img:nth-of-type(1n+4) { 
+    align-self: center; 
+}
+
+.gallery > img:nth-of-type(n+7) { 
+    align-self: flex-end; 
+}
