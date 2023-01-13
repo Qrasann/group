@@ -1,1 +1,0 @@
-browse-syns --server --files "css/*.css, *.html, js/*.js"
