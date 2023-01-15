@@ -1,4 +1,4 @@
-const button = document.querySelector("a");
+const button = document.querySelector("button");
 const width = window.screen.width;
 const height = window.screen.height;
 
