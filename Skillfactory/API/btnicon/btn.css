@@ -10,7 +10,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #3d3d3d
+  background: #3d3d3d;
 }
 
 button {
@@ -37,4 +37,3 @@ button {
 button:hover {
   transform: translateY(-20px);
 }
-
