@@ -18,9 +18,10 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-    "create-react-app": "^5.0.1",
+    "create-react-app": "^1.2.1",
     "css-loader": "^6.7.3",
     "jquery": "^3.6.3",
+    "prop-types": "^15.8.1",
     "style-loader": "^3.3.1"
   }
 }
